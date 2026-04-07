@@ -8,3 +8,8 @@ git remote set-url origin https://VishnuVarathang@github.com/VishnuVarathang/on-
 
 
 git push https://YOUR_TOKEN_HERE@github.com/YOUR_USERNAME/YOUR_REPO_NAME.git main
+
+
+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
+
+git push https://VishnuVarathang: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@github.com/VishnuVarathang/on-prem-test.git main
