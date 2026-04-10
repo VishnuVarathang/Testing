@@ -1,21 +1,3 @@
-Invalid username or token. Password authentication is not supported for Git operations.
-
-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
-
-
-
-git remote set-url origin https://VishnuVarathang@github.com/VishnuVarathang/on-prem-test.git
-
-
-git push https://YOUR_TOKEN_HERE@github.com/YOUR_USERNAME/YOUR_REPO_NAME.git main
-
-
-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
-
-git push https://VishnuVarathang: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@github.com/VishnuVarathang/on-prem-test.git main
-
-
-
-vishnu@vishnu-VirtualBox:~/on-prem-test$ git push -u origin main --force
+vishnu@vishnu-VirtualBox:~/on-prem-test/.git$ git push -u origin main --force
 remote: Invalid username or token. Password authentication is not supported for Git operations.
 fatal: Authentication failed for 'https://github.com/VishnuVarathang/on-prem-test.git/'
